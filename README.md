@@ -25,5 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu92karthik&show_icons=true&theme=radical" alt="vishnu92karthik" /></p>
 
 <img src= "https://github-readme-stats.vercel.app/api?username=vishnu92karthik&show_icons=true&theme=highcontrast"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu92karthik&show_icons=true&locale=en&layout=compact&show_icons=true&theme=solarized-light" alt="vishnu92karthik" /></p> 
+
 <img src = "https://activity-graph.herokuapp.com/graph?username=vishnu92karthik&theme=dracula">
